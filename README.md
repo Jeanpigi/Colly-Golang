@@ -6,16 +6,16 @@ To create a new project similar to this one, just follow steps in web site [Inst
 
 ## Features
 
-*Clean API
-*Fast (>1k request/sec on a single core)
-*Manages request delays and maximum concurrency per domain
-*Automatic cookie and session handling
-*Sync/async/parallel scraping
-*Distributed scraping
-*Caching
-*Automatic encoding of non-unicode responses
-*Robots.txt support
-*Google App Engine support
+* Clean API
+* Fast (>1k request/sec on a single core)
+* Manages request delays and maximum concurrency per domain
+* Automatic cookie and session handling
+* Sync/async/parallel scraping
+* Distributed scraping
+* Caching
+* Automatic encoding of non-unicode responses
+* Robots.txt support
+* Google App Engine support
 
 
 # Get started with Go
